@@ -24,21 +24,36 @@ ___
     OpenCV – for image processing & webcam handling
 
     MediaPipe – for real-time hand tracking
-🎮 Controls & Usage
-✋ Input Numbers (Hand Gestures)
-Show fingers to form digits (0–9)
-Both hands combined
-Hold steady ~1 sec → auto capture
-⌨️ Keyboard Controls
+## 🎮 Controls & Usage
+✋ Hand Input:
+
+Show fingers to form numbers (0–9)
+Use both hands for larger numbers
+Hold steady ~1 second to auto-capture
+
+⌨️ Keyboard Controls:
+
 b → Switch to second number (B)
-o → Change operation (+ - * /)
+
+o → Change operation (+, -, *, /)
+
 a → Calculate result
+
 n → Use only A
+
 r → Reset
+
 q → Quit
-🧭 Quick Flow
+
+
+🧭 Workflow:
+
 Show fingers → enter A
-Press o → choose operation
-Press b → enter B
-Press a → calculate
-Press r → reset
+
+Press 'o' → select operation
+
+Press 'b' → enter B
+
+Press 'a' → calculate
+
+Press 'r' → reset
